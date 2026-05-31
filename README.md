@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7B2CFF&height=190&section=header&text=Moiseyev%20Anton&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Pentester%20%7C%20Red%20Team%20Enthusiast%20%7C%20Fullstack%20Developer&descSize=16&descAlignY=55" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2400&pause=650&color=00F5FF&center=true&vCenter=true&width=900&lines=Junior+Pentester+%2F+Red+Team+Enthusiast;Physics+Student+%40+MSU;Fullstack+Developer;CTF+Player+%7C+HackTheBox+%7C+TryHackMe;Security-minded+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3600&pause=1400&color=00F5FF&center=true&vCenter=true&width=900&lines=Junior+Pentester+%2F+Red+Team+Enthusiast;Physics+Student+%40+MSU;Fullstack+Developer;CTF+Player+%7C+HackTheBox+%7C+TryHackMe;Security-minded+Engineer" alt="Typing SVG" />
 
 <br/>
 
