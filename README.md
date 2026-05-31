@@ -17,7 +17,7 @@
 ## 🕶️ About me
 
 ```python
-class masquadd:
+class masquadd():
     role = "Junior Pentester / Red Team Enthusiast"
     university = "MSU Faculty of Physics"
     location = "Moscow, Russia"
@@ -140,10 +140,7 @@ class masquadd:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/iTerm2-111111?style=for-the-badge&logo=iterm2&logoColor=white" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,burpsuite,wireshark,iterm2" />
 
 </div>
 
@@ -175,15 +172,6 @@ This background helps me approach cybersecurity problems not just as tool usage,
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=moiseyevanton&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
-
-</div>
 
 ---
 
