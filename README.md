@@ -73,26 +73,6 @@ class masquadd():
 - CTF-style problem solving
 - Security tooling and automation
 
----
-
-## 🧭 Security Roadmap
-
-```txt
-[+] Web Pentesting
-[+] Burp Suite
-[+] SQL Injection
-[+] IDOR / Access Control
-[+] Linux Privilege Escalation
-[~] Active Directory Basics
-[~] Exploit Development
-[ ] Red Team Operations
-```
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=600&color=7B2CFF&center=true&vCenter=true&width=850&lines=%24+nmap+-sV+target;%24+burp+%26%26+manual+testing;%24+python3+exploit.py;%24+flag%7Blearning_by_breaking%7D" alt="Terminal typing" />
-
-</div>
 
 ---
 
@@ -115,6 +95,12 @@ class masquadd():
 > Privilege escalation
 > CTF competitions
 ```
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=600&color=7B2CFF&center=true&vCenter=true&width=850&lines=%24+nmap+-sV+target;%24+burp+%26%26+manual+testing;%24+python3+exploit.py;%24+whoami+%26%26+id;%24+sudo+-l;%24+linpeas.sh;%24+docker+compose+up+--build;%24+flag%7Blearning_by_breaking%7D" alt="Terminal typing" />
+
+</div>
 
 ---
 
