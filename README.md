@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7B2CFF&height=190&section=header&text=Anton%20Moiseyev&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Pentester%20%7C%20Red%20Team%20Enthusiast%20%7C%20Backend%20Developer&descSize=16&descAlignY=55" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7B2CFF&height=190&section=header&text=Anton%20Moiseyev&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Pentester%20%7C%20Red%20Team%20Enthusiast%20%7C%20Fullstack%20Developer&descSize=16&descAlignY=55" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2400&pause=650&color=00F5FF&center=true&vCenter=true&width=900&lines=Junior+Pentester+%2F+Red+Team+Enthusiast;Physics+Student+%40+MSU;FastAPI+Backend+Developer;CTF+Player+%7C+HackTheBox+%7C+TryHackMe;Security-minded+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2400&pause=650&color=00F5FF&center=true&vCenter=true&width=900&lines=Junior+Pentester+%2F+Red+Team+Enthusiast;Physics+Student+%40+MSU;Fullstack+Developer;CTF+Player+%7C+HackTheBox+%7C+TryHackMe;Security-minded+Engineer" alt="Typing SVG" />
 
 <br/>
 
@@ -14,39 +14,10 @@
 
 ---
 
-## 🧠 About Me
-
-```bash
-whoami
-```
-
-```txt
-Anton Moiseyev
-Physics student at Lomonosov Moscow State University
-Junior Pentester / Red Team enthusiast
-Backend developer with FastAPI experience
-CTF player, security researcher, fast learner
-```
-
-I am a physics student at **MSU** and an aspiring **Junior Pentester / Red Team specialist**.
-
-My main interests are:
-
-- offensive security
-- web application pentesting
-- CTF and practical security labs
-- backend architecture
-- automation
-- secure engineering
-
-I combine analytical thinking from physics, practical backend experience, and a strong interest in cybersecurity.
-
----
-
-## 🕶️ Current Focus
+## 🕶️ About me
 
 ```python
-class Anton:
+class masquadd:
     role = "Junior Pentester / Red Team Enthusiast"
     university = "MSU Faculty of Physics"
     location = "Moscow, Russia"
@@ -63,17 +34,16 @@ class Anton:
     platforms = [
         "HackTheBox",
         "TryHackMe",
+        "Duckerz",
         "CTF competitions",
     ]
-
-    mindset = "Learn through real systems, practical labs, and careful analysis."
 ```
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Status-Learning%20Offensive%20Security-00F5FF?style=for-the-badge&labelColor=111111" />
 <img src="https://img.shields.io/badge/Mode-CTF%20%2B%20Labs-7B2CFF?style=for-the-badge&labelColor=111111" />
-<img src="https://img.shields.io/badge/Stack-Python%20%7C%20FastAPI%20%7C%20Linux-00F5FF?style=for-the-badge&labelColor=111111" />
+<img src="https://img.shields.io/badge/Stack-Python%20%7C%20JavaScript%20%7C%20KaliLinux-00F5FF?style=for-the-badge&labelColor=111111" />
 
 </div>
 
@@ -132,7 +102,8 @@ class Anton:
 
 <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=111111" />
 <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
-<img src="https://img.shields.io/badge/AlfaCTF%202026-FF0033?style=for-the-badge&logo=target&logoColor=white" />
+<img src="https://img.shields.io/badge/Duckerz-00F5FF?style=for-the-badge&logo=target&logoColor=111111" />
+<img src="https://img.shields.io/badge/AlfaCTF-FF0033?style=for-the-badge&logo=target&logoColor=white" />
 
 </div>
 
@@ -153,7 +124,7 @@ class Anton:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,cpp,dart,swift" />
+<img src="https://skillicons.dev/icons?i=python,js,bash,cpp,dart,swift" />
 
 </div>
 
@@ -169,74 +140,15 @@ class Anton:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/iTerm2-111111?style=for-the-badge&logo=iterm2&logoColor=white" />
 
 </div>
 
 ---
 
-## 🚀 Projects & Experience
-
-### 🔐 REST API for Automation System
-
-Backend service built with:
-
-- Python
-- FastAPI
-- PostgreSQL
-- JWT authentication
-- Docker
-- CI/CD
-
-```txt
-Designed API architecture
-Implemented authentication and authorization
-Integrated PostgreSQL
-Configured containerized deployment
-```
-
-### 🏗️ ERP / Automation System for SMB
-
-Currently leading MVP development of an ERP-style system.
-
-```txt
-Stack: Flutter + Go
-Role: architecture, task decomposition, team coordination, quality control
-Team: 4 developers
-```
-
-### 🤖 Telegram Bot for Internal Automation
-
-Led development of a Telegram bot for internal studio processes.
-
-```txt
-Designed bot logic
-Planned architecture
-Coordinated development
-Tested product behavior
-Prepared product for possible scaling
-```
-
-### 🧲 Scientific Research
-
-Speaker at **Lomonosov 2026** conference.
-
-Topic:
-
-```txt
-Reconstruction of magnetization distribution in domain structures
-through image processing and analysis
-```
-
-Areas involved:
-
-- image processing
-- magnetic domain structures
-- scientific computing
-- applied physics
-- analytical modeling
-
----
 
 ## 🧬 Physics Background
 
@@ -252,16 +164,6 @@ Physics gives me a strong base in:
 
 This background helps me approach cybersecurity problems not just as tool usage, but as systems to understand, break down, and test.
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=moiseyevanton&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moiseyevanton&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF" />
-
-</div>
 
 ---
 
@@ -317,6 +219,10 @@ and learning faster than the environment changes.
 
 <a href="mailto:moiseev.ao22@physics.msu.ru">
   <img src="https://img.shields.io/badge/Email-MSU%20Mail-00F5FF?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://t.me/mooiseyevanton">
+  <img src="https://img.shields.io/badge/Telegram-mooiseyevanton-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
 </div>
